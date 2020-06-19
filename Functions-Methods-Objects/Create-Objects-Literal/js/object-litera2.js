@@ -1,4 +1,3 @@
-// Set up the object
 let hotel = {
   name: 'Park',
   rooms: 120,
